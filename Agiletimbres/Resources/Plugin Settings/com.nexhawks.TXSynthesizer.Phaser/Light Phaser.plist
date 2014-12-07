@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist>
+    <dict>
+        <key>TXSettingsPlguinIdentifier</key>
+        <string>com.nexhawks.TXSynthesizer.Phaser</string>
+        <key>TXSettingsPluginSettings</key>
+        <dict>
+            <key>Depth</key>
+            <real>0.509766</real>
+            <key>Feedback</key>
+            <real>0.286719</real>
+            <key>LfoFrequency</key>
+            <real>0.553564</real>
+            <key>MaxFrequency</key>
+            <real>1737.112549</real>
+            <key>MinFrequency</key>
+            <real>237.664490</real>
+            <key>Stages</key>
+            <integer>12</integer>
+        </dict>
+    </dict>
+</plist>

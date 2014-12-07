@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist>
+    <dict>
+        <key>TXSettingsPlguinIdentifier</key>
+        <string>com.nexhawks.TXSynthesizer.Chorus</string>
+        <key>TXSettingsPluginSettings</key>
+        <dict>
+            <key>BaseDelayTime</key>
+            <real>0.006920</real>
+            <key>DeltaDelayTime</key>
+            <real>0.013460</real>
+            <key>Frequency</key>
+            <real>0.686036</real>
+            <key>InGain</key>
+            <integer>1</integer>
+        </dict>
+    </dict>
+</plist>

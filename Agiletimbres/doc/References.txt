@@ -1,0 +1,7 @@
+
+* TXGPDS1 References
+
+- Eli Brandt. (?). Hard Sync Without Aliasing.
+- Tim Stilson, Julius Smith. (?). Alias-Free Digital Synthesis of Classic Analog Waveforms.
+- Robert B. Johnson. Cookbook formulae for audio EQ biquad filter coefficients.
+- Julius O. Smith III. (2010) Physical Audio Signal Processing for Virtual Musical Instruments and Audio Effects.

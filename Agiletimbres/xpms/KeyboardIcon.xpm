@@ -1,0 +1,22 @@
+/* XPM */
+static const char *KeyboardIcon[] = {
+/* columns rows colors chars-per-pixel */
+"13 13 3 1 ",
+"  c black",
+". c #808080",
+"X c #C0C0C0",
+/* pixels */
+"             ",
+"             ",
+"             ",
+" ... XXX XXX ",
+" ... XXX XXX ",
+" ... XXX XXX ",
+"             ",
+"   XXX XXX X ",
+"   XXX XXX X ",
+"   XXX XXX X ",
+"             ",
+"             ",
+"             "
+};

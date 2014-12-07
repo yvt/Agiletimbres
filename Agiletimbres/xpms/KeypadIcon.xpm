@@ -1,0 +1,22 @@
+/* XPM */
+static const char *KeypadIcon[] = {
+/* columns rows colors chars-per-pixel */
+"13 13 3 1 ",
+"  c black",
+". c gray25",
+"X c #C0C0C0",
+/* pixels */
+"             ",
+" XX . X . XX ",
+" XX . X . XX ",
+" XX . X . XX ",
+" XX . X . XX ",
+" XX . X . XX ",
+" XX . X . XX ",
+" XX   X   XX ",
+" XXX XXX XXX ",
+" XXX XXX XXX ",
+" XXX XXX XXX ",
+" XXX XXX XXX ",
+"             "
+};
