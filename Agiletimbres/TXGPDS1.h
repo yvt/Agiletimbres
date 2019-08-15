@@ -8,6 +8,7 @@
 
 #pragma once
 
+#include <list>
 #include "TXInstrument.h"
 
 class TPLString;

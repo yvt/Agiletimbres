@@ -7,6 +7,7 @@
 //
 
 #include <string.h>
+#include <vector>
 #include "Utils.h"
 #include <tcw/twStrConv.h>
 #ifdef WIN32
